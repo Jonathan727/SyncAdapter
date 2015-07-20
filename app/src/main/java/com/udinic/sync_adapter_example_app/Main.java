@@ -21,7 +21,6 @@ import android.widget.CompoundButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.udinic.sync_adapter_example.R;
 import com.udinic.sync_adapter_example.authentication.AccountGeneral;
 import com.udinic.sync_adapter_example_app.db.TvShowsContract;
 import com.udinic.sync_adapter_example_app.db.dao.TvShow;
